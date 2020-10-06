@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+ 
 - 🔭 I’m currently working on ~finding good uses for bots~ becoming a bot
 - 🌱 I’m currently learning about networking
 - 👯 I’m looking to collaborate on teaching and mentoring new developers
