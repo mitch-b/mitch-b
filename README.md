@@ -3,7 +3,7 @@
 <h3 align="center">👋 Hello! I'm Mitch Barry.</h3>
 
 <p align="center">
-  <a href="https://mitchbarry.com">Blog</a>
+  <a href="https://blog.mitchbarry.com">Blog</a>
 </p>
 
 ---
